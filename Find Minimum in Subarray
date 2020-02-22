@@ -20,12 +20,7 @@ var indexOfMinimum = function(array, startIndex) {
         
     }
     
-    return minIndex;
-    
-    
-
-    
-    
+    return minIndex;   
     
     
 }; 
